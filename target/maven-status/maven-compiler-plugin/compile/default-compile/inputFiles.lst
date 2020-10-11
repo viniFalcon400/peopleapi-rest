@@ -1,0 +1,12 @@
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/PersonapiApplication.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/service/PersonService.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/repository/PersonRepository.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/dto/request/PersonDTO.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/controller/PersonController.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/entity/Person.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/dto/request/PhoneDTO.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/enums/PhoneType.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/entity/Phone.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/mapper/PersonMapper.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/dto/response/MessageResponseDTO.java
+/home/vinicius/Documentos/peopleapi-rest/src/main/java/com/desenv/personapi/exception/PersonNotFoundException.java

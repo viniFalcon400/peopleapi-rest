@@ -1,0 +1,7 @@
+com/desenv/personapi/controllers/PersonControllerTest.class
+com/desenv/personapi/service/PersonServiceTest.class
+com/desenv/personapi/utils/PhoneUtils.class
+com/desenv/personapi/mapper/PersonMapperTest.class
+com/desenv/personapi/services/PersonServiceTest.class
+com/desenv/personapi/PersonapiApplicationTests.class
+com/desenv/personapi/utils/PersonUtils.class
